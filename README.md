@@ -41,7 +41,8 @@
 * Код пропуска
 * Время регистрации 
  
-![Активные пропуски](https://github.com/univernik77/SecurityConsole/assets/146747152/57d3c0d7-54f9-45a3-809d-bbf7bae19a7a)
+![Активные пропуски](https://github.com/univernik77/SecurityConsole/assets/146747152/30748a05-531f-40f4-a007-d6155c1a9270)
+
 
 
 ### Список пользователей в хранилище  
@@ -54,7 +55,7 @@
 * Флаг `True`, если раньше за сотрудником была замечена подозрительная активность, в виде
 пребывания в хранилище на срок больше 1 часа. Флаг `False`, если такой активности не было. 
 
-![Хранилище](https://github.com/univernik77/SecurityConsole/assets/146747152/5a2833fc-b8d3-424b-baf7-64a718549d59)
+![Хранилище](https://github.com/univernik77/SecurityConsole/assets/146747152/193aebe9-ada6-4539-afd4-6ebf52030e2f)
 
 
 ### Личная карточка сотрудника   
@@ -65,7 +66,8 @@
 * Время нахождения в хранилище
 * Флаг `True`, если время пребывания в хранилище больше 1 часа. Флаг `False`, если меньше.  
 
-![Личная карточка](https://github.com/univernik77/SecurityConsole/assets/146747152/b2f3776b-a0f1-43a7-a9a7-791aa269bb92)
+![Личная карточка](https://github.com/univernik77/SecurityConsole/assets/146747152/1d2ba9b0-7f79-48e9-a986-d0a309fa4eb4)
+
 
 
 ### Цель проекта
